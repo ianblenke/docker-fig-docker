@@ -7,6 +7,9 @@ The fig command requires python, which is an extra install for Windows or even C
 
 The docker command seems redundant, but it allows you to use fig to start docker containers that require dynamically generated environment variables or parameters outside the pervue of fig.
 
+This is available on docker hub as the image [ianblenke/fig-docker](https://registry.hub.docker.com/u/ianblenke/fig-docker/), and on github as the repository [ianblenke/docker-fig-docker](https://github.com/ianblenke/docker-fig-docker)
+
+
 What is Fig ?
 -------------
 
